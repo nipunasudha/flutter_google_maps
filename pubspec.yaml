@@ -17,7 +17,7 @@ dependencies:
   google_maps_flutter: ^0.5.28+1
   google_polyline_algorithm: ^3.0.0
   http: ^0.13.0
-  uuid: ^2.1.0
+  uuid: ^3.0.1
 
 dev_dependencies:
   flutter_test:
